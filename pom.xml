@@ -28,7 +28,7 @@
 
 	<!-- 버전 공통 사용위해 따로 빼줌 태그의 이름은 마음대로! -->
 	<properties>
-		<spring.version>4.3.26.RELEASE</spring.version>
+		<spring.version>5.2.20.RELEASE</spring.version>
 	</properties>
 
 	<dependencies>
